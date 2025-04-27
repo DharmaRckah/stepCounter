@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* styles.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+nav {
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
